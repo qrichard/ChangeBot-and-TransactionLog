@@ -1,0 +1,14 @@
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\bin\Debug\Cash Drawer Project.exe.config
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\bin\Debug\Cash Drawer Project.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\bin\Debug\Cash Drawer Project.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\10-16-2018\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.pdb
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\bin\Debug\Cash Drawer Project.exe.config
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\bin\Debug\Cash Drawer Project.exe
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\bin\Debug\Cash Drawer Project.pdb
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.exe
+C:\Users\CCA009\Desktop\portfolio projects\Cash Drawer Project\Cash Drawer Project\obj\Debug\Cash Drawer Project.pdb

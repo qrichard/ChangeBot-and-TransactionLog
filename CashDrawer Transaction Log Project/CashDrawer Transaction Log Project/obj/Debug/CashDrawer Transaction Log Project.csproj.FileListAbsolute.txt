@@ -1,0 +1,7 @@
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\bin\Debug\CashDrawer Transaction Log Project.exe.config
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\bin\Debug\CashDrawer Transaction Log Project.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\bin\Debug\CashDrawer Transaction Log Project.pdb
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\obj\Debug\CashDrawer Transaction Log Project.csprojResolveAssemblyReference.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\obj\Debug\CashDrawer Transaction Log Project.csproj.CoreCompileInputs.cache
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\obj\Debug\CashDrawer Transaction Log Project.exe
+C:\Users\CCA009\Documents\Q Coding Accademy\10-23-2018\CashDrawer Transaction Log Project\CashDrawer Transaction Log Project\obj\Debug\CashDrawer Transaction Log Project.pdb
